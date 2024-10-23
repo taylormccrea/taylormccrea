@@ -5,7 +5,7 @@
 My name is Taylor and I am student at ASU !
 
 - :computer: I’m majoring in Graphic Information Technology Full-Stack Web Development with a major in Anthropology 
-- :counfounded: Unsure which direction I want to go for my career quite yet
+- :confounded: Unsure which direction I want to go for my career quite yet
 - :crystal_ball: I love all things witchy 
 - :hocho: I enjoy watching horror movies and am currently obsessed with the *Terrifier* series
 - :taurus: I'm a Taurus
