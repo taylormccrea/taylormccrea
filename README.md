@@ -1,16 +1,15 @@
-## Hi there 👋
+![Spoopy Kitties](hallowsevekitty.png)
 
-<!--
-**taylormccrea/taylormccrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# :first_quarter_moon_with_face: Howdy Friends :last_quarter_moon_with_face:
 
-Here are some ideas to get you started:
+My name is Taylor and I am student at ASU !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :computer: I’m majoring in Graphic Information Technology Full-Stack Web Development with a major in Anthropology 
+- :counfounded: Unsure which direction I want to go for my career quite yet
+- :crystal_ball: I love all things witchy 
+- :hocho: I enjoy watching horror movies and am currently obsessed with the *Terrifier* series
+- :taurus: I'm a Taurus
+- :video_game: I love playing cozy video games as well as consuming all the lore I possible can for *Bloodborne*
+- :trollface: I'm a silly goofy guy who enjoys being a stinker
+- :jack_o_lantern: Pronouns?? They/Them 
+- :octocat: I ***love*** cats and currently have four of them !
