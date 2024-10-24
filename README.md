@@ -1,4 +1,4 @@
-![Spoopy Kitties](hallowsevekitty.png)
+![Calico Kitty](kittyyy.png)
 
 # :first_quarter_moon_with_face: Howdy Friends :last_quarter_moon_with_face:
 
